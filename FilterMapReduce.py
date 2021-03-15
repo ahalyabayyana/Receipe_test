@@ -1,5 +1,5 @@
 from functools import reduce
-
+#list of values
 a=[1,4,3,5,6,74,46,54]
 print(a)
 odd=list(filter(lambda a:a%2!=0,a))
